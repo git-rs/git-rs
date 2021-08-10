@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @git-rs
+- 👋 Hi, I’m @git-rs (Rajbeer Singh)
 - 👀 I’m interested in Ruby on Rails and software development
 - 🌱 I’m currently exploring opportunities in software development 
 - 💞️ I’m looking to collaborate on RoR and other interesting software problem
